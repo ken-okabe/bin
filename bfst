@@ -1,0 +1,1 @@
+browserify ./contents/entries/entry0/js/entry.js -o ./contents/entries/entry0/js/entry.bundle.js
