@@ -1,0 +1,1 @@
+browserify ./lib/www/js/index.js -o ./lib/www/js/index.bundle.js
